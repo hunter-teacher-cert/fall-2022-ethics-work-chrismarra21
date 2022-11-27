@@ -1,4 +1,4 @@
-//Credit to Sarah McCoy for assisting me with this assignment
+//My Curtis colleague Sarah McCoy assisted me with this assignment.
 
 let maxGroup = 3
 let planeRows
